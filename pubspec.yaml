@@ -1,0 +1,64 @@
+name: relic
+description: "A modern photo gallery app."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  photo_manager: ^3.5.1
+  photo_manager_image_provider: ^2.2.0
+  media_kit: ^1.1.10+1
+  media_kit_video: ^2.0.0
+  media_kit_libs_video: ^1.0.4
+
+
+
+
+  share_plus: ^12.0.1
+  path_provider: ^2.1.5
+  flutter_staggered_grid_view: ^0.7.0
+  shared_preferences: ^2.3.3
+  permission_handler: ^12.0.1
+  photo_view: ^0.15.0
+  flutter_staggered_animations: ^1.1.1
+  http: ^1.2.0
+  gal: ^2.3.0
+  pro_image_editor: ^11.14.0
+  image: ^4.2.0
+
+  # Vault Dependencies
+  local_auth: ^2.3.0
+  flutter_secure_storage: ^9.2.2
+  encrypt: ^5.0.3
+  sqflite: ^2.3.3
+  image_picker: ^1.0.7
+  uuid: ^4.3.3
+  intl: ^0.20.2
+  path: ^1.9.0
+  geocoding: ^4.0.0
+  exif: ^3.3.0
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/relic_app_icon.png"  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/relic_app_icon.png
+    - assets/logo/relic_logo.png
+
