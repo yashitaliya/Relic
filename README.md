@@ -2,8 +2,6 @@
 
 # 📸 Relic
 
-<img src="assets/relic_app_icon.png" alt="Relic App Logo" width="180" />
-
 **A modern Flutter gallery app focused on clean organization, privacy, and smooth UX.**
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.10%2B-02569B?logo=flutter)](https://flutter.dev)
