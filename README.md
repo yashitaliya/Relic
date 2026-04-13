@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-success)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-[🎬 Demo Video (replace this link)](https://github.com/user-attachments/assets/fbb4593a-ebc0-4a8d-ac60-6ca2e013fe64)
+[🎬 Demo Video](https://github.com/user-attachments/assets/fbb4593a-ebc0-4a8d-ac60-6ca2e013fe64)
 
 </div>
 
